@@ -1,5 +1,5 @@
 # Campr
-Home to everything camping!
+Home to everything camping! Created with HTML, CSS, JS. 
 <br>
 
 <img src="img/campr.png" height="200">

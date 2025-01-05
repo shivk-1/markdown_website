@@ -1,5 +1,5 @@
 # Luna - The Mental Health Chatbot
-A chatbot tailored to mental health. Predefined responses, no AI. 
+A chatbot tailored to mental health. Predefined responses, no AI. Created with Python. 
 <br>
 
 <img src="img/moon.png" height="200">

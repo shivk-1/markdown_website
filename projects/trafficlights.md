@@ -1,5 +1,5 @@
 # Two-Way Traffic Light System 
-Experience a modern traffic control simulation!
+Experience a modern traffic control simulation! Created with C++ / Arduino.  
 <br>
 
 <img src="img/traffic.jpg" height="200">

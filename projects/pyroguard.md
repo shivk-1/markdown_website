@@ -1,5 +1,5 @@
 # PYROGuard
-A gas sensor constantly checking your environment's carbon dioxide levels. 
+A gas sensor constantly checking your environment's carbon dioxide levels. Created with C++ / Arduino. 
 <br>
 
 <img src="img/pyroguard.png" height="200">

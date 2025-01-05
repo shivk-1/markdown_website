@@ -1,5 +1,5 @@
 # Grayscale
-A small program, converting pictures to grayscale. 
+A small program, converting pictures to grayscale. Created with HTML, CSS, JS, Python. 
 <br>
 
 <img src="img/gray.png" height="200">
