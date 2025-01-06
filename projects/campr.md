@@ -1,9 +1,5 @@
 # Campr
-<<<<<<< HEAD
 Home to everything camping! Created with HTML, CSS, JS. 
-=======
-Home to everything camping!
->>>>>>> origin/main
 <br>
 
 <img src="img/campr.png" height="200">

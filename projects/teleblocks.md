@@ -1,9 +1,5 @@
 #  Teleblocks
-<<<<<<< HEAD
 Toy blocks for kids, transforming into a mini telescope. Created by hand. 
-=======
-Toy blocks for kids, transforming into a mini telescope. 
->>>>>>> origin/main
 <br>
 
 <img src="img/teleblocks.png" height="200">

@@ -1,9 +1,5 @@
 # Memory Game
-<<<<<<< HEAD
 Test your memory with sequential button presses. Created with C++ / Arduino. 
-=======
-Test your memory with sequential button presses. 
->>>>>>> origin/main
 <br>
 
 <img src="img/memory.jpg" height="200">

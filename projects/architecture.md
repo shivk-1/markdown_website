@@ -1,9 +1,5 @@
 # Ground Floor House 3D Model 
-<<<<<<< HEAD
 Discover a modern design that blends functionality with effortless flow! 3D Modelled in SketchUp. 
-=======
-Discover a modern design that blends functionality with effortless flow!
->>>>>>> origin/main
 <br>
 
 <img src="img/house.png" height="200">
