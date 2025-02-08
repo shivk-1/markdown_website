@@ -1,3 +1,3 @@
-<a href="https://open.spotify.com/show/3gaGfrqgnVqUBNDdtv5p3S?si=b48a3bea5b784cdd">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/13/52/4b/13524bb9-3bb9-4892-e022-13eb9dc5436d/mza_6517040760126602143.jpeg/1200x1200bf-60.jpg" width="200" height="200">
+<a href="https://soundcloud.com/okdeazy/dark-child-ft-dream-ki-prod-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing">
+  <img src="https://cdn-images.dzcdn.net/images/cover/b732b4402e75e41befdd7fdf51add3a1/0x1900-000000-80-0-0.jpg" width="200" height="200">
 </a>
