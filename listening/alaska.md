@@ -1,3 +1,3 @@
-<a href="https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm?si=fd3dd55e80b349a3">
-  <img src="https://images.genius.com/bffbbf55de0bc0c8d6f484bc82fc46b3.1000x1000x1.png" width="200" height="200">
+<a href="https://open.spotify.com/show/3gaGfrqgnVqUBNDdtv5p3S?si=b48a3bea5b784cdd">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/13/52/4b/13524bb9-3bb9-4892-e022-13eb9dc5436d/mza_6517040760126602143.jpeg/1200x1200bf-60.jpg" width="200" height="200">
 </a>
